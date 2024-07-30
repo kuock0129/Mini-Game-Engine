@@ -6,8 +6,6 @@
   </a>
 </p>
 
-**Piccolo Engine** is a tiny game engine used for the [GAMES104](https://games104.boomingtech.com) course.
-
 ## Continuous build status
 
 |    Build Type     |                                                                                      Status                                                                                      |
